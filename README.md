@@ -19,15 +19,15 @@ Additionally, our findings could contribute to the broader field of customer exp
 
 ### Dataset
 The *[Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)* dataset, sourced from Kaggle, contains passenger-level data with features grouped into the following categories: <br/>
-&nbsp; &nbsp; **Demographics** <br/>
+&nbsp; &nbsp; **Demographics:** <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Gender:** male or female <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Age:** passenger's age at the time of travel <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Customer Type:** loyalty status, classified as "loyal customer" or "disloyal customer" <br/>
-&nbsp; &nbsp; **Flight Characteristics** <br/>
+&nbsp; &nbsp; **Flight Characteristics:** <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Type of Travel:** business travel or personal travel <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Flight Distance:** distance of the flight in miles <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Class:** passenger class (Economy, Business, etc.) <br/>
-&nbsp; &nbsp; **Service-Related Features** <br/>
+&nbsp; &nbsp; **Service-Related Features:** <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Inflight Wi-Fi Service:** rated on a scale from 0 to 5 <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Ease of Online Booking:** passenger's rating of the booking experience <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Convenience of Departure/Arrival Times:** ratings for the suitability of flight schedules <br/>
