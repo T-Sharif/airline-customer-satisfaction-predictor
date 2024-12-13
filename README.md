@@ -21,9 +21,6 @@ Additionally, our findings could contribute to the broader field of customer exp
 The *[Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)* dataset, sourced from Kaggle, contains passenger-level data with features grouped into the following categories: <br/>
 &nbsp; &nbsp; **Demographics** <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Gender:** male or female <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; **label:** passenger's age at the time of travel <br/>
-
-&nbsp; &nbsp; &nbsp; &nbsp; **Gender:** male or female <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Age:** passenger's age at the time of travel <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Customer Type:** loyalty status, classified as "loyal customer" or "disloyal customer" <br/>
 &nbsp; &nbsp; **Flight Characteristics** <br/>
@@ -37,8 +34,8 @@ The *[Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal2
 &nbsp; &nbsp; &nbsp; &nbsp; **Seat Comfort:** passenger rating of seating quality <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; **Inflight Entertainment:** passenger rating of entertainment options <br/>
 
-The target variable, *satisfaction*, is a binary classification:
-&nbsp; &nbsp; 1 = Satisfied
+The target variable, *satisfaction*, is a binary classification: <br/>
+&nbsp; &nbsp; 1 = Satisfied </br>
 &nbsp; &nbsp; 0 = Neutral or Dissatisfied
 
 ### Project Steps
